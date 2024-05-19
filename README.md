@@ -1,7 +1,6 @@
 # Real-Time-Emotion-Detection-Using-CNN
 
 
-Great! Here's the updated README.md with the correct dataset information:
 
 ---
 
