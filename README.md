@@ -71,4 +71,3 @@ To use the real-time emotion detection system:
 
 ---
 
-Feel free to customize and expand the README.md according to your project's specific details and requirements.
