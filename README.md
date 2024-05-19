@@ -4,8 +4,6 @@
 
 ---
 
-# Real-Time Emotion Detection Using CNN
-
 ## Overview
 
 This project implements a real-time emotion detection system using Convolutional Neural Networks (CNN). It utilizes deep learning techniques to recognize facial expressions in real-time through a computer's webcam.
